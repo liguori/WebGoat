@@ -37,7 +37,7 @@ import org.springframework.security.web.authentication.LoginUrlAuthenticationEnt
 /**
  * AjaxAuthenticationEntryPoint class.
  *
- * @author zupzup
+ * @author zupzup 
  */
 public class AjaxAuthenticationEntryPoint extends LoginUrlAuthenticationEntryPoint {
   public AjaxAuthenticationEntryPoint(String loginFormUrl) {
